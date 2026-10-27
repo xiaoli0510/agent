@@ -4,7 +4,7 @@ import config_data as config
 
 client = OpenAI(
     api_key=config.api_key,
-    base_url="https://ws-fybpg29h6nlemy6l.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+            base_url="https://ws-fybpg29h6nlemy6l.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
 )
 
 examples_data = {
