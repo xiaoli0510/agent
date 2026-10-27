@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52cd0331-6248-4664-aa51-b22f443fe6bc" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P5_Agent智能体/01Agent智能体初体验.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P5_Agent智能体/02Agent的stream流式输出.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P5_Agent智能体/03Agent的ReAct行动框架.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P5_Agent智能体/04middleware中间件.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/P4_RAG项目案例/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config_data_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/config_data_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.01Agent智能体初体验.executor": "Run",
+    "Python.02Agent的stream流式输出.executor": "Run",
+    "Python.03Agent的ReAct行动框架.executor": "Run",
     "Python.1.executor": "Run",
     "Python.16.查看Runnables的源码.executor": "Run",
     "Python.18.StrOutPutParser.executor": "Run",
@@ -60,6 +64,7 @@
     "Python.30.RunnablePassthrough的使用.executor": "Run",
     "Python.30.向量检索构建提示词.executor": "Run",
     "Python.31.RunnablePassthrough的使用 (1).executor": "Run",
+    "Python.Current File.executor": "Run",
     "Python.app_file_upload.executor": "Run",
     "Python.config_data.executor": "Run",
     "Python.knowledge_base.executor": "Run",
@@ -81,7 +86,7 @@
       <recent name="D:\study\python\agent\P4_RAG项目案例\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.30.向量检索构建提示词">
+  <component name="RunManager">
     <configuration name="30.向量检索构建提示词" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="agent" />
       <option name="ENV_FILES" value="" />
@@ -126,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="31.RunnablePassthrough的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Current File" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="agent" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/P5_Agent智能体" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\study\python\agent\31.RunnablePassthrough的使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P5_Agent智能体/Current File" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,13 +197,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.Current File" />
+      <item itemvalue="Python.30.向量检索构建提示词" />
+      <item itemvalue="Python.31.RunnablePassthrough的使用 (1)" />
+      <item itemvalue="Python.app_file_upload" />
+      <item itemvalue="Python.knowledge_base" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Current File" />
         <item itemvalue="Python.30.向量检索构建提示词" />
         <item itemvalue="Python.knowledge_base" />
         <item itemvalue="Python.app_file_upload" />
         <item itemvalue="Python.31.RunnablePassthrough的使用 (1)" />
-        <item itemvalue="Python.31.RunnablePassthrough的使用" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +230,17 @@
       <updated>1791174676821</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
