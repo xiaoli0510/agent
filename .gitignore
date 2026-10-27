@@ -1,0 +1,21 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 本地数据库和向量库
+chroma_db*/
+*.sqlite3
+
+# 敏感配置文件（如果你把 Key 写在了这里，一定要加这行）
+config_data.py
+
+# 本地记录
+md5.txt
+*.log
+
+*.md

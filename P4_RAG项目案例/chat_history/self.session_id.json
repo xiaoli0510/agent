@@ -1,0 +1,677 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "我体重180斤，,尺码推荐",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您提供的信息，您的体重为180斤。参考我们的尺码推荐标准，如果您的身高在178-185cm之间，建议选择3XL的尺码；若您的身高位于180-190cm区间内，则更推荐4XL的尺码。为了获得最合适的穿着体验，请结合自己的具体身高来决定最终选购的尺码。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "冬天穿什么颜色衣服，请简单简洁回答",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "冬天可以选择深色系的衣服，如黑色、灰色、深蓝色等，这些颜色不仅耐脏，还更显温暖和沉稳。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "190cm+，体重：210斤+，建议尺码",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的身高和体重，建议选择5XL的尺码。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "ni",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "您的问题是“ni”，但不太清楚具体想问什么。请提供更多详细信息，以便我能够准确回答您的问题。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "190cm+，体重：210斤+，建议尺码",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的身高和体重，建议选择5XL的尺码。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "身高：190cm+，体重：210斤+，建议尺码",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的身高和体重，建议选择5XL的尺码。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "冬天穿什么颜色衣服，简单简洁回答我",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "冬天建议穿深色系衣服，如黑色、灰色、深蓝色。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "身高：190cm+，体重：210斤+，建议尺码",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的身高和体重，建议选择5XL的尺码。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "冬天穿什么颜色的衣服",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "冬天建议穿深色系的衣服，如黑色、灰色、深蓝色。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "在家里穿什么颜色的衣服，然后穿什么款式的，你有建议吗",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "在家里穿衣服以舒适为主，颜色可以选择柔和或自己喜欢的颜色，如浅灰色、浅蓝色、粉色等。款式方面，建议选择宽松的休闲装，如棉质T恤、运动裤或家居服套装，这样既舒适又方便活动。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "体重：180-210斤，尺码推荐，你多说几句话吧",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的体重范围（180-210斤），尺码推荐如下：\n\n1. 如果您的身高在180-190cm之间，建议选择4XL的尺码。\n2. 如果您的身高超过190cm，建议选择5XL的尺码。\n\n为了确保穿着舒适，您可以参考这些尺码建议。如果您介于两个尺码之间，可以根据个人喜好和具体的体形特点来决定是否需要选择稍大或稍小的尺码。希望这些建议对您有所帮助！",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "体重：160-180斤，尺码推荐",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的体重范围（160-180斤），尺码推荐如下：\n\n- 如果您的身高在178-185cm之间，建议选择3XL的尺码。\n\n请结合您的具体身高来选择合适的尺码，以确保穿着舒适。如果有其他需求或疑问，欢迎随时咨询。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "体重：145-165斤，尺码推荐",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的体重范围（145-165斤），尺码推荐如下：\n\n- 如果您的身高在175-182cm之间，建议选择2XL的尺码。\n\n请结合您的具体身高来选择合适的尺码，以确保穿着舒适。如果有其他需求或疑问，欢迎随时咨询。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "体重：130-150斤，尺码推荐的",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的体重范围（130-150斤），尺码推荐如下：\n\n- 如果您的身高在170-178cm之间，建议选择XL的尺码。\n\n请结合您的具体身高来选择合适的尺码，以确保穿着舒适。如果有其他需求或疑问，欢迎随时咨询。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "请写一篇关于春天的 500 字散文",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "春天，是一年四季中最令人期待的季节之一。当冬日的寒冷逐渐退去，大地开始苏醒，万物复苏，一切都充满了生机与希望。\n\n走在春日的小径上，你会感受到一种温暖而柔和的气息。阳光不再那么刺眼，而是带着一丝温柔，洒在大地上，让人心情愉悦。树木开始抽出嫩绿的新芽，花儿也竞相开放，五彩斑斓的花朵点缀着整个世界，仿佛大自然用最鲜艳的颜料为这个世界重新上色。\n\n春天的田野里，农民们开始了新的耕作。他们挥舞着锄头，播下希望的种子，期待着秋天的丰收。田间地头，一片繁忙而又充满希望的景象。小溪也开始解冻，潺潺流水声如同大自然的乐章，清脆悦耳，令人心旷神怡。\n\n在这个季节里，人们的心情也变得更加轻松和愉快。孩子们在公园里追逐嬉戏，放风筝、踢足球，尽情享受着户外活动的乐趣。年轻人则喜欢在周末结伴出游，踏青赏花，感受大自然的美好。老年人则在树荫下聊天、下棋，享受着宁静而美好的时光。\n\n春天不仅是自然界的复苏，也是心灵的复苏。经历了漫长的冬季，人们的心灵也在这个季节得到了释放和舒展。无论是漫步在花海中，还是静静地坐在窗前品一杯茶，都能感受到春天带来的那份宁静与美好。\n\n总之，春天是一个充满希望和生机的季节。它让我们感受到了生命的奇迹，也提醒我们要珍惜每一个美好的瞬间。在这个季节里，让我们拥抱自然，感受生活的美好，迎接每一个新的开始。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "体重：90-115斤，尺码推荐",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的体重范围（90-115斤），尺码推荐如下：\n\n- 如果您的身高在160-170cm之间，建议选择M尺码。\n\n请结合您的具体身高来选择合适的尺码，以确保穿着舒适。如果有其他需求或疑问，欢迎随时咨询。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "体重：75-95，尺码推荐",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的体重范围（75-95斤），尺码推荐如下：\n\n- 如果您的身高在155-165cm之间，建议选择S尺码。\n\n请结合您的具体身高来选择合适的尺码，以确保穿着舒适。如果有其他需求或疑问，欢迎随时咨询。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "体重：90-115斤，尺码推荐",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的体重范围（90-115斤），尺码推荐如下：\n\n- 如果您的身高在160-170cm之间，建议选择M尺码。\n\n请结合您的具体身高来选择合适的尺码，以确保穿着舒适。如果有其他需求或疑问，欢迎随时咨询。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "冬天穿什么颜色的衣服",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "冬天建议穿深色系的衣服，如黑色、灰色、深蓝色。这些颜色不仅耐脏，还更显温暖和沉稳。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "体重：115-135斤，尺码推荐",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的体重范围（115-135斤），尺码推荐如下：\n\n- 如果您的身高在165-175cm之间，建议选择L尺码。\n\n请结合您的具体身高来选择合适的尺码，以确保穿着舒适。如果有其他需求或疑问，欢迎随时咨询。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "体重：130-150斤，尺码推荐",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的体重范围（130-150斤），尺码推荐如下：\n\n- 如果您的身高在170-178cm之间，建议选择XL尺码。\n\n请结合您的具体身高来选择合适的尺码，以确保穿着舒适。如果有其他需求或疑问，欢迎随时咨询。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "体重：130-150斤，建议尺码",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的体重范围（130-150斤），建议尺码如下：\n\n- 如果您的身高在170-178cm之间，建议选择XL尺码。\n\n请结合您的具体身高来选择合适的尺码，以确保穿着舒适。如果有其他需求或疑问，欢迎随时咨询。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "身高：160-170cm，体重：90-115斤，建议尺码M。\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的身高（160-170cm）和体重（90-115斤），建议选择M尺码。\n\n希望这些建议对您有所帮助！如果有其他需求或疑问，欢迎随时咨询。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "体重：145-165斤，建议尺码",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的体重范围（145-165斤），建议尺码如下：\n\n- 如果您的身高在175-182cm之间，建议选择2XL尺码。\n\n请结合您的具体身高来选择合适的尺码，以确保穿着舒适。如果有其他需求或疑问，欢迎随时咨询。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "那冬天穿什么颜色的鞋子",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "冬天穿鞋子的颜色可以选择以下几种，既实用又时尚：\n\n1. **黑色**：经典且百搭，适合各种场合和服装搭配。\n2. **棕色**：温暖而自然，非常适合秋冬季节，尤其是搭配大地色系的衣物。\n3. **灰色**：低调且优雅，容易与其他颜色搭配。\n4. **深蓝色**：稳重而不失时尚感，适合多种风格的装扮。\n\n这些颜色不仅耐脏，还能很好地搭配冬装，保持整体造型的协调与统一。希望这些建议对您有所帮助！",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "体重：90-115斤，推荐尺码",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您的体重范围（90-115斤），推荐尺码如下：\n\n- 如果您的身高在160-170cm之间，建议选择M尺码。\n\n请结合您的具体身高来选择合适的尺码，以确保穿着舒适。如果有其他需求或疑问，欢迎随时咨询。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "动态戴什么颜色的帽子",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "选择帽子的颜色可以根据您的整体穿搭风格和个人喜好来决定。以下是一些常见的颜色建议，适合不同场合和服装搭配：\n\n1. **黑色**：经典且百搭，适合各种风格的服装，无论是休闲还是正式场合。\n2. **灰色**：低调而优雅，容易与其他颜色搭配，适合日常穿着。\n3. **棕色/卡其色**：温暖而自然，非常适合秋冬季节，尤其适合搭配大地色系的衣物。\n4. **深蓝色**：稳重而不失时尚感，适合多种风格的装扮。\n5. **米色/白色**：清新且明亮，适合春夏季节或搭配浅色系服装。\n\n如果您希望帽子更加突出或作为点缀，可以选择一些亮色或有图案的款式，如红色、绿色或带有条纹、印花的设计。\n\n总之，选择帽子的颜色应考虑与您的服装和其他配饰的整体协调性，以达到最佳的视觉效果。希望这些建议对您有所帮助！",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    }
+]

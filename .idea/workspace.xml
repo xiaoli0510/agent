@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52cd0331-6248-4664-aa51-b22f443fe6bc" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/agent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.查看Runnables的源码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.StrOutPutParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.JsonOutputParser的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.Lambda函数的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.Memory临时会话记录.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.1.Memory长期会话记录.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.Memory长期会话记录.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.CSVLoader的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.JSONLoader的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25.TextLoader和文本分割器的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.PyPDFLoader的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28.内部向量存储-VectorStores向量存储.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.外部向量存储-choma向量存储.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30.向量检索构建提示词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31.RunnablePassthrough的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P4_RAG项目案例/app_file_upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P4_RAG项目案例/app_qa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P4_RAG项目案例/config_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P4_RAG项目案例/data/尺码推荐.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P4_RAG项目案例/file_history_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P4_RAG项目案例/get_table_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P4_RAG项目案例/knowledge_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P4_RAG项目案例/rag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P4_RAG项目案例/vector_stores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/stu.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/stu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/stu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/stu1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/stu2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sut.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3KGCmVkOrxtRGLg8o0WjvjlKIIw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.1.executor": "Run",
+    "Python.16.查看Runnables的源码.executor": "Run",
+    "Python.18.StrOutPutParser.executor": "Run",
+    "Python.19.JsonOutputParser的使用.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.20.Lambda函数的使用.executor": "Run",
+    "Python.21.Memory临时会话记录.executor": "Run",
+    "Python.23.CSVLoader的使用 (1).executor": "Run",
+    "Python.24.JSONLoader的使用.executor": "Run",
+    "Python.25.TextLoader和文本分隔符的使用 (1).executor": "Run",
+    "Python.25.TextLoader的使用.executor": "Run",
+    "Python.27.PyPDFLoader的使用.executor": "Run",
+    "Python.28.VectorStores向量存储.executor": "Run",
+    "Python.28.外部向量存储-choma向量存储.executor": "Run",
+    "Python.29.外部向量存储-choma向量存储 (1).executor": "Run",
+    "Python.29.外部向量存储-choma向量存储.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.30.RunnablePassthrough的使用.executor": "Run",
+    "Python.30.向量检索构建提示词.executor": "Run",
+    "Python.31.RunnablePassthrough的使用 (1).executor": "Run",
+    "Python.app_file_upload.executor": "Run",
+    "Python.config_data.executor": "Run",
+    "Python.knowledge_base.executor": "Run",
+    "Python.rag.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.vector_stores.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/study/python/agent/data",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\python\agent\data" />
+      <recent name="D:\study\python\agent\P4_RAG项目案例\data" />
+      <recent name="D:\study\python\agent" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.30.向量检索构建提示词">
+    <configuration name="30.向量检索构建提示词" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="agent" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30.向量检索构建提示词.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="31.RunnablePassthrough的使用 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="agent" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/31.RunnablePassthrough的使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="31.RunnablePassthrough的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="agent" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\study\python\agent\31.RunnablePassthrough的使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app_file_upload" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="agent" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/P4_RAG项目案例" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P4_RAG项目案例/app_file_upload.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="knowledge_base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="agent" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/P4_RAG项目案例" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P4_RAG项目案例/knowledge_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.30.向量检索构建提示词" />
+        <item itemvalue="Python.knowledge_base" />
+        <item itemvalue="Python.app_file_upload" />
+        <item itemvalue="Python.31.RunnablePassthrough的使用 (1)" />
+        <item itemvalue="Python.31.RunnablePassthrough的使用" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="52cd0331-6248-4664-aa51-b22f443fe6bc" name="更改" comment="" />
+      <created>1791174676821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791174676821</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/P4_RAG项目案例/knowledge_base.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
