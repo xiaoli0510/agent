@@ -1,8 +1,65 @@
-from langchain.agents import AgentState
-from langchain.agents.middleware import before_agent
+from langchain.agents import AgentState, create_agent
+from langchain.agents.middleware import before_agent, after_agent, before_model, after_model, wrap_model_call, \
+    wrap_tool_call
+from langchain_community.chat_models import ChatTongyi
 from langgraph.runtime import Runtime
+from langchain_core.tools import tool
 
+"""
+    1. agent执行前
+    2. agent执行后
+    3. model执行前
+    4. model执行后
+    5. 工具执行中
+    6. 模型执行中
+    """
 
 @before_agent
-def log_before_agent(state: AgentState, runtime:Runtime) -> None:
+def log_before_agent(state: AgentState, runtime: Runtime) -> None:
     print(f"[before_agent] agent启用，并附带{len(state['messages'])}消息")
+
+
+@after_agent
+def log_after_agent(state: AgentState, runtime: Runtime) -> None:
+    print(f"[after_agent] agent 结束，并附带{len(state['messages'])}消息")
+
+
+@before_model
+def log_before_model(state: AgentState, runtime: Runtime) -> None:
+    print(f"[before_model] model即将调用，并附带{len(state['messages'])}消息")
+
+
+@after_model
+def log_after_model(state: AgentState, runtime: Runtime) -> None:
+    print(f"[after_model] model调用结束，并附带{len(state['messages'])}消息")
+
+
+@wrap_model_call
+def model_call_hook(request, handler):
+    print("模型调用啦")
+    return handler(request)
+
+
+@wrap_tool_call
+def monitor_tool(request, handler):
+    print(f"工具执行：{request.tool_call['name']}")
+    print(f"工具执行传入参数：{request.tool_call['args']}")
+    return handler(request)
+
+@tool(description="获取天气，传入的参数是城市的名字，返回字符串")
+def get_weather(city: str) -> str:
+    return f"{city}的天气是:晴天"
+
+
+agent = create_agent(
+    model=ChatTongyi(model="qwen-max"),
+    tools=[get_weather],
+    middleware=[log_before_agent,log_after_agent,log_after_model,log_before_model,model_call_hook,monitor_tool],
+)
+
+res = agent.invoke(
+    {"messages": [{
+        "role": "user", "content": "深圳今天的天气如何，如何穿衣服"
+    }]}
+)
+print(res)
